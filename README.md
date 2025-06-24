@@ -14,7 +14,7 @@
 | 프로젝트명 | 설명 | 링크 |
 |------------|------|------|
 | 🧠 기억:ONº | 치매 예방 및 케어 기반 웹 | [🔗 GitHub](https://github.com/sbkim324/software_engineering_DementiaPrevention_and_Care) |
-| 🥩 소고기 마블링 등급 판별 | 딥러닝 모델을 활용한 소고기 마블링 등급 분류 AI 시스템 | [🔗 GitHub](https://github.com/your_project_link) |
+| 🥩 소고기 마블링 등급 판별 | 딥러닝 모델을 활용한 소고기 마블링 등급 분류 AI 시스템 | [🔗 GitHub]([https://github.com/your_project_link](https://github.com/sbkim324/Deeplearning_programming_AI_system_for_determining_beef_marbling_grade)) |
 
 ## 🛠️ 기술 스택
 
